@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Duck Cards</string>
+
+    <!-- Bestehende Texte aus deiner alten Datei -->
+    <string name="bearbeiten">bearbeiten</string>
+    <string name="addsfolder">addsFolder</string>
+    <string name="textview">TextView</string>
+    <string name="befragung_starten">Befragung starten</string>
+    <string name="ordner_titel">Ordner Titel</string>
+    <string name="name">Name</string>
+    <string name="name_of_your_new_folder">Name of your new Folder :</string>
+    <string name="name_of_new_folder">Name of new folder</string>
+    <string name="new_folder">new folder</string>
+    <string name="ordner_anzeigen">Ordner anzeigen</string>
+    <string name="items_count">%1$d Einträge</string>
+    <string name="add_question">Frage hinzufügen</string>
+    <string name="question_name">Fragetitel</string>
+    <string name="question_text">Fragetext</string>
+    <string name="answer_text">Antwort</string>
+
+    <!-- Neu hinzugefügt, weil von den neuen Layouts referenziert -->
+    <string name="edit">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+
+    <!-- Startscreen / Hinweise -->
+    <string name="welcome_title">Willkommen bei DuckCards</string>
+    <string name="welcome_subtitle_empty">Füge einen Ordner hinzu</string>
+    <string name="welcome_subtitle_has_folders">Klicke auf einen Ordner</string>
+
+    <!-- Quiz / Aktionstexte (optional, aber nützlich) -->
+    <string name="show_answer">Antwort anzeigen</string>
+    <string name="next">Weiter</string>
+    <string name="finish">Beenden</string>
+
+
+    <!-- Ergebnis-Ansicht (optional) -->
+    <string name="result_title">Dein Ergebnis</string>
+    <string name="result_correct">Korrekt</string>
+    <string name="result_unsure">Unsicher</string>
+    <string name="result_wrong">Falsch</string>
+</resources>

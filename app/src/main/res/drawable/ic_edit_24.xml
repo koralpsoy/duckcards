@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DuckCards</string>
+
+    <!-- Main / Ordner -->
+    <string name="new_folder">Neuen Ordner hinzufügen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+
+    <!-- Platzhalter / Sonstiges (optional) -->
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+</resources>
